@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 # import sys
 
 setup(
-    name='crowdtruth',
-    version='2.1',
+    name='crowdtruth-fork',
+    version='2.1.1',
     description=
     "Disagreement based metrics for the processing and evaluation of crowdsourced annotations",
     long_description=
